@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **lalitpal076/lalitpal076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
