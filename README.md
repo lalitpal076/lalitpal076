@@ -65,8 +65,8 @@ A few technologies I've been working with recently:
     <td width="50%" valign="top">
       <h3>ZaikaExpress - Food Delivery Website</h3>
       <p>A 7-day college mini-project featuring user authentication, menu browsing, and order placement.</p>
-      <p><strong>Tech:</strong> HTML, CSS, JavaScript, [Add Backend tech]</p>
-      <a href="[LINK_TO_YOUR_ZAIKAEXPRESS_REPO]" target="_blank">View on GitHub</a>
+      <p><strong>Tech:</strong> HTML, CSS, JavaScript/p>
+      <a href="https://github.com/lalitpal076/ZaikaExpress.git" target="_blank">View on GitHub</a>
     </td>
     <td width="50%" valign="top">
        <img src="[URL_TO_YOUR_PROJECT_IMAGE_OR_GIF]" alt="ZaikaExpress Demo">
