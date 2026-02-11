@@ -72,20 +72,6 @@ A few technologies I've been working with recently:
        <img src="[URL_TO_YOUR_PROJECT_IMAGE_OR_GIF]" alt="ZaikaExpress Demo">
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Smart India Hackathon 2025</h3>
-      <p>Our team's solution for the problem statement on '[Mention the problem statement]'.</p>
-      <p><strong>Tech:</strong> [Mention tech stack used]</p>
-      <a href="[LINK_TO_YOUR_SIH_REPO]" target="_blank">View on GitHub</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>TCS CodeVita 2025 Solutions</h3>
-      <p>A repository of my solutions for problems I solved during the TCS CodeVita 2025 competition.</p>
-      <p><strong>Tech:</strong> [C++/Java/Python]</p>
-      <a href="[LINK_TO_YOUR_CODEVITA_REPO]" target="_blank">View on GitHub</a>
-    </td>
-  </tr>
 </table>
 
 <br/>
