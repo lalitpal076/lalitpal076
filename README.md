@@ -68,9 +68,6 @@ A few technologies I've been working with recently:
       <p><strong>Tech:</strong> HTML, CSS, JavaScript/p>
       <a href="https://github.com/lalitpal076/ZaikaExpress.git" target="_blank">View on GitHub</a>
     </td>
-    <td width="50%" valign="top">
-       <img src="[URL_TO_YOUR_PROJECT_IMAGE_OR_GIF]" alt="ZaikaExpress Demo">
-    </td>
   </tr>
 </table>
 
