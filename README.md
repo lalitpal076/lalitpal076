@@ -14,73 +14,67 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <a href="https://github.com/[YOUR_USERNAME]">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=20C20E&center=true&width=435&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%AD+I'm+Lalit+Kumar!" alt="Typing SVG" />
-  </a>
-</div>
+## Yes, I am the One ... !
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=If%20it's%20harder;Give%20it%20a%20try%20!" alt="Typing SVG" />
+
+
+## About Me
+- 🎓 **B.Tech** (2026 Passout)
+- 🔭 Building projects with **MERN Stack**
+- ⚡ Strong fundamentals in **C / C++**
+- 📫 Reach me at: **lalitpal9807@gmail.com**
 
 <br/>
 
-## 👨‍💻 About Me
-
-- 🎓 I'm a final year student pursuing **B.Tech in CSE**.
-- 🌱 I’m currently learning **, MERN Stack, DevOps**.
-- 📫 You can reach me at: ****devlalit9807@gmail.com/lalitpal9807@gmail.com
-
-
-<br/>
-
-## 🛠️ My Tech Stack
-
-A few technologies I've been working with recently:
+##  My Tech Stack
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <br/>
 
-## 🚀 My Projects
-
-<table width="100%">
+## GitHub Stats
+<div align="center">
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>ZaikaExpress - Food Delivery Website</h3>
-      <p>A 7-day college mini-project featuring user authentication, menu browsing, and order placement.</p>
-      <p><strong>Tech:</strong> HTML, CSS, JavaScript/p>
-      <a href="https://github.com/lalitpal076/ZaikaExpress.git" target="_blank">View on GitHub</a>
+    <td>
+      <!-- Left Column: GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=lalitpal076&show_icons=false&theme=dark&text_color=ffffff" />
+    </td>
+    <td>
+      <!-- Right Column: Streak Stats -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitpal076&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <!-- Bottom Row: Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitpal076&layout=compact&theme=dark" />
     </td>
   </tr>
 </table>
 
-<br/>
+<!-- Extra Badges -->
 
-## 📊 My GitHub Stats
+<br>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=lalitpal076.YOUR_REPO" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+
+
 
 ---
