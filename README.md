@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Yes, I am the One ... !
+# Yes, I am the One ... !
 
 <div >
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=If%20it's%20harder,;give%20it%20a%20try%20!" alt="Typing SVG" />
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-##  My Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <!-- Left Column: GitHub Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=lalitpal076&show_icons=false&theme=dark&text_color=ffffff" />
+      <img src="https://github-readme-stats.vercel.app/api?username=lalitpal076&show_icons=false&theme=dark&text_color=ffffff&custom_title=Stats:" />
     </td>
     <td>
       <!-- Right Column: Streak Stats -->
@@ -71,7 +71,6 @@ Here are some ideas to get you started:
 <!-- Extra Badges -->
 
 <br>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=lalitpal076.YOUR_REPO" />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=lalitpal076.YOUR_REPO&left_text=pyare%20pyare%20log%20&>" />
 </div>
 
