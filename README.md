@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Yes, I am the One ... !
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=If%20it's%20harder;Give%20it%20a%20try%20!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=If%20it's%20harder,;give%20it%20a%20try%20!" alt="Typing SVG" />
 
 
 ## About Me
